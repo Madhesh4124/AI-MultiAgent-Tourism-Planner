@@ -1,4 +1,4 @@
-🌍 AI Tourism Intern – Multi-Agent Travel Assistant
+AI Multi-Agent Tourism Planner Assistant
 
 A smart, multi-agent tourism planner powered by Google Gemini, OpenStreetMap, and Streamlit — designed to intelligently parse natural language queries and deliver weather forecasts + curated tourist attractions in real time.
 
